@@ -61,14 +61,14 @@ h2 svg .gradient-layer {
     fill: url(#gr-overlay);
 }
 #homefooter {
-    background-color: #12301a;
+    background-color: #0B0B0B;
     text-align: center;
     padding: 12px;
     text-decoration: none;
     color: white;
 }
 #aboutfooter {
-    background-color: #332f15;
+    background-color: #093607;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -145,15 +145,15 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: #171818;
+    background-color: #272725;
 }
 #recentprojects article {
     width: 250px;
 }
 #recentprojects article h3 {
     width: 250px;
-    background-color: #2bb673;
-	color:white;
+    background-color: gold;;
+	color:black;
     text-align: center;
     font-size: 18px;
     vertical-align: middle;
