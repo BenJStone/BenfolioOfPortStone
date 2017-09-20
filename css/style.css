@@ -146,6 +146,7 @@ a:hover {
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #272725;
+	align-content: center;
 }
 #recentprojects article {
     width: 250px;
